@@ -1,20 +1,4 @@
-<h1 align="center">Fourth Year Applied Project And Minor Dissertation </h1>
-<p align="center">
-  <img src = "https://imgur.com/ZnsGF9x.png">
-</p>
 
-
-
-# Project Details
-
-| Project Details   |     |
-| --- | --- |
-| **Course** | BSc (Hons) in Software Development  |
-| **Module** |  Applied Project and Minor Dissertation |
-| **College** | [GMIT](http://www.gmit.ie/) Galway |
-| **Students** | [Kevin Barry](https://github.com/kbarry91)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G00339811<br/>[Cian Gannon](https://github.com/cian2009)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G00337022 |
-| **Project Supervisors** | Mr Martin Kenirons  <br/> Dr. John Healy|
-| **Project Title** | Techbook |
 
 
 # Table Of Contents
